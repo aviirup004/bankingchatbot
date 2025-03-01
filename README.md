@@ -1,1 +1,1 @@
-# bankingchatbot
+Design and implement a robust banking chatbot that efficiently assists users with various banking services, including credit card information, card details inquiries, and payment processing, while ensuring security and user satisfaction. In today's fast-paced world, customers seek quick and efficient solutions to their banking needs. Traditional banking methods often involve long wait times and cumbersome procedures. The need for an intelligent system that can provide immediate assistance and streamline banking processes has become paramount!
